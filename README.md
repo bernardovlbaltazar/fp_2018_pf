@@ -13,7 +13,7 @@ work. If not, see <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
 ## Descrição do problema
 
 Implementação de um jogo (demo) jogável 2D com visão superior, com alguns assets
-(podem ser criados na UC de Game Art).Os grupos (até 3 alunos) devem implementar
+(podem ser criados na UC de Game Art). Os grupos (até 3 alunos) devem implementar
 um programa em Python 3 \[[1][ref1],[2][ref2]\] a funcionar com Janelas Pygame 
 \[[3][ref3],[4][ref4]\]. 
 
