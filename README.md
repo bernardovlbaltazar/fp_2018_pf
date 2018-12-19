@@ -35,7 +35,9 @@ Legibilidade do código; nomes significativos para variáveis e funções; separ
 o código por funções; listas, etc. Do mesmo modo, também serão bonificados os
 trabalhos bem comentados e formatados; (10%)
 *	Defesa individual do projeto.
+
 Notas:
+
 –	O projeto deve ser realizado em grupos com até três alunos
 –	Deverão ser implementadas interfaces gráficas. Não serão bonificados, nem cotados
 interfaces com o utilizador em modo texto.
