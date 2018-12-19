@@ -87,14 +87,14 @@ Estruturas de Dados][aed] do [Instituto Superior Técnico][ist]*
 
 ## Referências
 
-*   <a name="ref1">\[1\]</a> Guttag, J. V. (2016). **Introduction to Computation and Programming Using Python **
+*   <a name="ref1">\[1\]</a> Guttag, J. V. (2016). **Introduction to Computation and Programming Using Python**
     (3nd Edition). MIT Press.
-*   <a name="ref2">\[2\]</a> Lubanovic, B. (2014). **Introducing Python: Modern Computing in Simple Packages **.
+*   <a name="ref2">\[2\]</a> Lubanovic, B. (2014). **Introducing Python: Modern Computing in Simple Packages**.
     O’Reilly.
 *   <a name="ref3">\[3\]</a> Craven, P. (2016). **Program Arcade Games: With Python and Pygame**.
-Apress.
+    Apress.
 *   <a name="ref4">\[4\]</a> Sweigart, A. (2017). **Invent Your Own Computer Games With Python**
-(3nd Edition). No Starch Press.
+    (3nd Edition). No Starch Press.
 
 ## Licenças
 
