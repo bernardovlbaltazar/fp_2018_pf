@@ -38,19 +38,26 @@ trabalhos bem comentados e formatados; (10%)
 
 Notas:
 
-–	O projeto deve ser realizado em grupos com até três alunos
+–	O projeto deve ser realizado em grupos com até três alunos.
+
 –	Deverão ser implementadas interfaces gráficas. Não serão bonificados, nem cotados
 interfaces com o utilizador em modo texto.
-–	As entregas devem ser feitas via moodle e Git, com o código-fonte
+
+–	As entregas devem ser feitas via moodle e Git, com o código-fonte.
+
 –	Haverá uma discussão individual presencial obrigatória. A não comparência nesta
 discussão implica a atribuição da nota zero ao aluno ausente.
+
 –	Recomenda-se que eventuais dúvidas sobre o enunciado sejam esclarecidas no fórum
 do Moodle da UC.
+
 –	Durante esta defesa individual, será pedido ao aluno que faça alterações ao código
 para dar resposta a alterações aos requisitos.
+
 –	É possível que sejam feitas alterações a este enunciado, durante o tempo de
 desenvolvimento do projeto. Por esta razão, os alunos devem estar atentos ao Moodle
 da UC.
+
 –	Entrega: O projeto deve ser entregue até às 23h30 do dia 27 de janeiro. Não serão
 aceites projetos entregues após esta data/hora.
 
