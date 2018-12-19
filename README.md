@@ -19,9 +19,11 @@ um programa em Python 3 \[[1][ref1],[2][ref2]\] a funcionar com Janelas Pygame
 
 ## Objetivos e critério de avaliação
 
-Objetivos: 
+Objetivos:
+
 Implementação de um jogo (demo) jogável 2D com visão superior, com alguns assets
 (podem ser criados na UC de Game Art).
+
 Estrutura do trabalho:
 *	Jogo final em Python 3 a funcionar com Janelas Pygame; (10%)
 *	Qualidade das mecânicas acrescentadas; (30%)
