@@ -93,7 +93,7 @@ para possível instauração de um processo disciplinar. Este poderá
 resultar em reprovação à disciplina, reprovação de ano ou mesmo suspensão
 temporária ou definitiva da ULHT.
 
-*Texto adaptado da disciplina de [Algoritmos e
+*Texto adaptado por [Nuno Fachada] da disciplina de [Algoritmos e
 Estruturas de Dados][aed] do [Instituto Superior Técnico][ist]*
 
 ## Referências
@@ -128,3 +128,4 @@ Este enunciado é disponibilizados através da licença [CC BY-NC-SA 4.0][].
 [ULHT]:https://www.ulusofona.pt/
 [aed]:https://fenix.tecnico.ulisboa.pt/disciplinas/AED-2/2009-2010/2-semestre/honestidade-academica
 [ist]:https://tecnico.ulisboa.pt/pt/
+[Nuno Fachada]:https://github.com/fakenmc
